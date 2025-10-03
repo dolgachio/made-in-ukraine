@@ -85,7 +85,7 @@ If these conditions are met, feel free to open a PR!
 * **[Chokidar](https://github.com/paulmillr/chokidar)** by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
   An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
 
-* **[Brunch](https://github.com/brunch/brunch)** by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
+* **[Brunch](https://github.com/brunch/brunch)** `[ARCHIVED]` by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
   🍴 An opinionated developer-friendly build tool for modern front-end apps
 
 * **[Che](https://github.com/eclipse/che)** by [Serhii Leshchenko](https://github.com/sponsors/sleshchenko)<br>
@@ -117,7 +117,7 @@ If these conditions are met, feel free to open a PR!
   
 ## > 1K ⭐️
 
-* **[uashield](https://github.com/opengs/uashield)** by [opengs](https://github.com/sponsors/opengs)<br>
+* **[uashield](https://github.com/opengs/uashield)** `[ARCHIVED]` by [opengs](https://github.com/sponsors/opengs)<br>
   🇺🇦 Voluntary Ukraine security platform to protect us from Russian forces in the Internet
 
 * **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)** by [Oleksii Trekhleb](https://github.com/sponsors/trekhleb)<br>
@@ -183,13 +183,13 @@ If these conditions are met, feel free to open a PR!
 * **[Notejam](https://github.com/komarserjio/notejam)** by [Serhii Komar](https://github.com/sponsors/komarserjio) <br>
   For those who wanna learn new server-side framework.
 
-* **[hegel](https://github.com/JSMonk/hegel)** by [Artem Kobzar](https://github.com/sponsors/JSMonk) <br>
+* **[hegel](https://github.com/JSMonk/hegel)** `[ARCHIVED]` by [Artem Kobzar](https://github.com/sponsors/JSMonk) <br>
   An advanced static type checker
 
 * **[PlatformIO](https://github.com/platformio/platformio-core)** by [Ivan Kravets](https://github.com/sponsors/ivankravets) <br>
   PlatformIO is a professional collaborative platform for embedded development
 
-* **[Material-UI pickers](https://github.com/mui-org/material-ui-pickers)** by [Dmitriy Kovalenko](https://github.com/sponsors/dmtrKovalenko) <br>
+* **[Material-UI pickers](https://github.com/mui-org/material-ui-pickers)** `[ARCHIVED]` by [Dmitriy Kovalenko](https://github.com/sponsors/dmtrKovalenko) <br>
   Accessible, customizable, delightful date & time pickers for material-ui
 
 * **[FSNotes](https://github.com/glushchenko/fsnotes)** by [Oleksandr Glushchenko](https://github.com/sponsors/glushchenko) <br>
