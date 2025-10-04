@@ -264,7 +264,6 @@ If these conditions are met, feel free to open a PR!
 * 🇧🇩 [made-in-bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh)
 * 🇧🇯 [made-in-benin](https://github.com/0l1v3r5/made-in-benin)
 * 🇧🇷 [made-in-brazil](https://github.com/IonicaBizau/made-in-brazil)
-* 🇨🇦 [made-in-canada](https://github.com/suguru03/made-in-canada)
 * 🇨🇴 [made-in-colombia](https://github.com/IonicaBizau/made-in-colombia)
 * 🇬🇭 [made-in-ghana](https://github.com/devcongress/made-in-ghana)
 * 🇮🇳 [made-in-india](https://github.com/IonicaBizau/made-in-india)
