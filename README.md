@@ -80,12 +80,24 @@ If these conditions are met, feel free to open a PR!
 * **[graphql-js](https://github.com/graphql/graphql-js)** maintained by [Ivan Goncharov](https://github.com/sponsors/IvanGoncharov)<br>
   A reference implementation of GraphQL for JavaScript.
 
-## > 5K ⭐️
-
 * **[Chokidar](https://github.com/paulmillr/chokidar)** by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
   An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
 
-* **[Brunch](https://github.com/brunch/brunch)** by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
+* **[Resilience4J](https://github.com/resilience4j/resilience4j)** by [Bohdan Storohuk](https://github.com/sponsors/storozhukBM)<br>
+  Fault tolerance library for Java
+
+* **[Mock Service Worker](https://github.com/mswjs/msw)** by [Artem Zakharchenko](https://github.com/sponsors/kettanaito)<br />
+  Seamless REST/GraphQL API mocking library for browser and Node.js.
+
+* **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)** by [Oleksii Trekhleb](https://github.com/sponsors/trekhleb)<br>
+  📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+
+* **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
+  Downloads videos and playlists from YouTube.
+
+## > 5K ⭐️
+
+* **[Brunch](https://github.com/brunch/brunch)** `ARCHIVED` by [Paul Miller](https://github.com/sponsors/paulmillr)<br>
   🍴 An opinionated developer-friendly build tool for modern front-end apps
 
 * **[Che](https://github.com/eclipse/che)** by [Serhii Leshchenko](https://github.com/sponsors/sleshchenko)<br>
@@ -93,9 +105,6 @@ If these conditions are met, feel free to open a PR!
 
 * **[ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)** by [Dmitriy Shekhovtsov](https://github.com/sponsors/valorkin)<br>
   Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)
-
-* **[Resilience4J](https://github.com/resilience4j/resilience4j)** by [Bohdan Storohuk](https://github.com/sponsors/storozhukBM)<br>
-  Fault tolerance library for Java
 
 * **[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)** by [Dmytro Danylyk](https://github.com/sponsors/dmytrodanylyk)<br>
   Android Circular Progress Button
@@ -105,23 +114,35 @@ If these conditions are met, feel free to open a PR!
   
 * **[nestjsx/crud](https://github.com/nestjsx/crud)** by [Micheal Yali](https://github.com/sponsors/zMotivat0r)<br />
   A crud solution for nestjs making crud operations easier to develop.
-  
-* **[Mock Service Worker](https://github.com/mswjs/msw)** by [Artem Zakharchenko](https://github.com/sponsors/kettanaito)<br />
-  Seamless REST/GraphQL API mocking library for browser and Node.js.
 
 * **[Clusterize.js](https://github.com/NeXTs/Clusterize.js)** by [Denys Lukov](https://github.com/sponsors/NeXTs)<br />
   Tiny vanilla JS plugin to display large data sets easily
 
 * **[django-ninja](https://github.com/vitalik/django-ninja)** by [Vitaliy Kucheryaviy](https://github.com/sponsors/vitalik)<br>
   🥷 Fast, Async-ready, Openapi, type hints based framework for building REST APIs.
+
+* **[Pixelmatch](https://github.com/mapbox/pixelmatch)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
+  The smallest, simplest and fastest JavaScript pixel-level image comparison library
+
+* **[Wasm3](https://github.com/wasm3/wasm3)** by [Volodymyr Shymanskyy](https://github.com/sponsors/vshymanskyy)<br>
+  🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
+
+* **[PlatformIO](https://github.com/platformio/platformio-core)** by [Ivan Kravets](https://github.com/sponsors/ivankravets) <br>
+  PlatformIO is a professional collaborative platform for embedded development
+
+* **[FSNotes](https://github.com/glushchenko/fsnotes)** by [Oleksandr Glushchenko](https://github.com/sponsors/glushchenko) <br>
+  FSNotes is modern notes manager for macOS and iOS.
+
+* **[DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
+  Exports Discord chat logs to a file.
+
+* **[MeetingBar](https://github.com/leits/MeetingBar)** by [Andrii Leitsius](https://github.com/sponsors/leits)<br>
+  MeetingBar is a menu bar app for your calendar meetings (macOS 10.15+).
   
 ## > 1K ⭐️
 
-* **[uashield](https://github.com/opengs/uashield)** by [opengs](https://github.com/sponsors/opengs)<br>
+* **[uashield](https://github.com/opengs/uashield)** `ARCHIVED` by [opengs](https://github.com/sponsors/opengs)<br>
   🇺🇦 Voluntary Ukraine security platform to protect us from Russian forces in the Internet
-
-* **[Playground and Cheatsheet for Learning Python](https://github.com/trekhleb/learn-python)** by [Oleksii Trekhleb](https://github.com/sponsors/trekhleb)<br>
-  📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 
 * **[bash-handbook](https://github.com/denysdovhan/bash-handbook)** by [Denys Dovhan](https://github.com/sponsors/denysdovhan)<br>
   📖 For those who wanna learn Bash
@@ -140,9 +161,6 @@ If these conditions are met, feel free to open a PR!
 
 * **[CodeceptJS](https://github.com/codeceptjs/CodeceptJS)** by [Michael Bodnarchuk](https://github.com/sponsors/DavertMik)<br>
   Supercharged End 2 End Testing Framework for NodeJS
-
-* **[Pixelmatch](https://github.com/mapbox/pixelmatch)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
-  The smallest, simplest and fastest JavaScript pixel-level image comparison library
 
 * **[Earcut](https://github.com/mapbox/earcut)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   The fastest and smallest JavaScript polygon triangulation library for your WebGL apps
@@ -171,9 +189,6 @@ If these conditions are met, feel free to open a PR!
 * **[Simplify.js](https://github.com/mourner/simplify-js)** by [Volodymyr Agafonkin](https://github.com/sponsors/mourner)<br>
   High-performance JavaScript polyline simplification library
 
-* **[Wasm3](https://github.com/wasm3/wasm3)** by [Volodymyr Shymanskyy](https://github.com/sponsors/vshymanskyy)<br>
-  🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)
-
 * **[Pastel](https://github.com/vadimdemedes/pastel)** by [Vadim Demedes](https://github.com/sponsors/vadimdemedes)<br>
   🎨 Framework for effortlessly building Ink apps
 
@@ -183,17 +198,11 @@ If these conditions are met, feel free to open a PR!
 * **[Notejam](https://github.com/komarserjio/notejam)** by [Serhii Komar](https://github.com/sponsors/komarserjio) <br>
   For those who wanna learn new server-side framework.
 
-* **[hegel](https://github.com/JSMonk/hegel)** by [Artem Kobzar](https://github.com/sponsors/JSMonk) <br>
+* **[hegel](https://github.com/JSMonk/hegel)** `ARCHIVED` by [Artem Kobzar](https://github.com/sponsors/JSMonk) <br>
   An advanced static type checker
 
-* **[PlatformIO](https://github.com/platformio/platformio-core)** by [Ivan Kravets](https://github.com/sponsors/ivankravets) <br>
-  PlatformIO is a professional collaborative platform for embedded development
-
-* **[Material-UI pickers](https://github.com/mui-org/material-ui-pickers)** by [Dmitriy Kovalenko](https://github.com/sponsors/dmtrKovalenko) <br>
+* **[Material-UI pickers](https://github.com/mui-org/material-ui-pickers)** `ARCHIVED` by [Dmitriy Kovalenko](https://github.com/sponsors/dmtrKovalenko) <br>
   Accessible, customizable, delightful date & time pickers for material-ui
-
-* **[FSNotes](https://github.com/glushchenko/fsnotes)** by [Oleksandr Glushchenko](https://github.com/sponsors/glushchenko) <br>
-  FSNotes is modern notes manager for macOS and iOS.
 
 * **[android-progress-button](https://github.com/dmytrodanylyk/android-process-button)** by [Dmytro Danylyk](https://github.com/sponsors/dmytrodanylyk)<br>
   Android Buttons With Built-in Progress Meters.
@@ -207,12 +216,6 @@ If these conditions are met, feel free to open a PR!
 * **[android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)** by [Dmytro Danylyk](https://github.com/sponsors/dmytrodanylyk)<br>
   Android button which can morph from one shape to another.
   
-* **[DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
-  Exports Discord chat logs to a file.
-
-* **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
-  Downloads videos and playlists from YouTube.
-  
 * **[LightBulb](https://github.com/Tyrrrz/LightBulb)** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
   Reduces eye strain by adjusting gamma based on the current time.
 
@@ -224,9 +227,6 @@ If these conditions are met, feel free to open a PR!
   
 * **[CliFx](https://github.com/Tyrrrz/CliFx)** by [Oleksii Holub](https://github.com/sponsors/tyrrrz)<br>
   Declarative framework for building command line interfaces (.NET).
-
-* **[MeetingBar](https://github.com/leits/MeetingBar)** by [Andrii Leitsius](https://github.com/sponsors/leits)<br>
-  MeetingBar is a menu bar app for your calendar meetings (macOS 10.15+).
 
 * **[CherryPy](https://github.com/cherrypy/cherrypy)** maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
   A Minimalist Python Web Framework.
@@ -264,7 +264,6 @@ If these conditions are met, feel free to open a PR!
 * 🇧🇩 [made-in-bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh)
 * 🇧🇯 [made-in-benin](https://github.com/0l1v3r5/made-in-benin)
 * 🇧🇷 [made-in-brazil](https://github.com/IonicaBizau/made-in-brazil)
-* 🇨🇦 [made-in-canada](https://github.com/suguru03/made-in-canada)
 * 🇨🇴 [made-in-colombia](https://github.com/IonicaBizau/made-in-colombia)
 * 🇬🇭 [made-in-ghana](https://github.com/devcongress/made-in-ghana)
 * 🇮🇳 [made-in-india](https://github.com/IonicaBizau/made-in-india)
