@@ -240,6 +240,9 @@ If these conditions are met, feel free to open a PR!
 * **[tailwind-rn](https://github.com/vadimdemedes/tailwind-rn)** by [Vadim Demedes](https://github.com/sponsors/vadimdemedes)<br>
   🦎 Use Tailwind CSS in React Native projects
 
+* **[picocolors](https://github.com/alexeyraspopov/picocolors)** by [Alexey Raspopov](https://github.com/alexeyraspopov)<br>
+  The tiniest and the fastest library for terminal output formatting with ANSI colors.
+
 * **[pypi-publish](https://github.com/marketplace/actions/pypi-publish)** authored and maintained by [Sviatoslav Sydorenko](https://github.com/sponsors/webknjaz)<br>
   The blessed GitHub Action, for publishing Python distribution packages to PyPI, the tokenless way. With automatic digital signatures.
 
